@@ -51,7 +51,22 @@ body {
     height: 80%;
 }
 
-a {
+a:link {
+    color: rgb(216, 216, 216);
+    text-decoration: none;
+}
+
+a:visited {
+    color: rgb(216, 216, 216);
+    text-decoration: none;
+}
+
+a:focus {
+    color: rgb(216, 216, 216);
+    text-decoration: none;
+}
+
+a:active {
     color: rgb(216, 216, 216);
     text-decoration: none;
 }
