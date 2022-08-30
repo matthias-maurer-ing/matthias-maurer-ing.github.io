@@ -60,3 +60,8 @@ a:hover{
     color: rgb(255, 255, 255);
     text-decoration: none;
 }
+
+a:visited{
+    color: rgb(216, 216, 216);
+    text-decoration: none;
+}
