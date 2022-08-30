@@ -5,6 +5,8 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-size: auto auto;
+
+    min-width: 40em;
 }
 
 .overlay {
@@ -17,7 +19,6 @@ body {
     margin: 10%;
     padding: 3%;
 
-    max-height: 800px;
 
     z-index: 1;
     background: rgba(51, 51, 51, 0.699);
@@ -47,7 +48,7 @@ body {
 }
 
 .right {
-    max-width: 25em;
+    max-width: 30em;
     min-width: 15em;
     height: 80%;
 }
