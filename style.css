@@ -17,6 +17,7 @@ body {
     margin: 10%;
     padding: 3%;
 
+    max-height: 800px;
 
     z-index: 1;
     background: rgba(51, 51, 51, 0.699);
