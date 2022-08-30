@@ -38,7 +38,7 @@ body {
     overflow-wrap: break-word;
     overflow: hidden;
     z-index: 3;
-    text-align: left;
+    text-align:justify;
 }
 
 .left {
